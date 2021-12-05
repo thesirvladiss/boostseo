@@ -2,3 +2,4 @@
 First Porject
 Self-executed project on the layout
 Implemented the main page, a JS spoiler and adaptation for mobile devices
+TEST https://thesirvladiss.github.io/boostseo/
